@@ -1,0 +1,13 @@
+type: wall
+
+name: Scrap Wall
+description: Made the scrap wall craftable again!
+
+category: defense
+health: 300
+
+variants: 4
+
+requirements: [
+    scrap/10
+]

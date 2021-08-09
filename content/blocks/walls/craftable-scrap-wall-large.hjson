@@ -1,0 +1,16 @@
+type: wall
+
+size: 2
+
+name: Large Scrap Wall
+description: Made the scrap wall craftable again!
+
+
+category: defense
+health: 500
+
+variants: 4
+
+requirements: [
+    scrap/30
+]
