@@ -1,0 +1,20 @@
+type: Drill
+name: Scrap Drill
+description: A drill made out of scrap. The first drill you want to get.
+
+requirements: [
+    scrap/100
+]
+
+tier: 1
+size: 2
+drillTime: 600
+rotateSpeed: 1
+drawMineItem: true
+updateEffect: pulverizeMedium
+drillEffect: mineBig
+health: 200
+hasItems: true
+itemCapacity: 5
+
+category: production
