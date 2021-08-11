@@ -1,0 +1,31 @@
+type: ItemTurret
+name: Scrap Thrower
+description: Starter turret to take down air units.
+
+requirements: [
+  scrap/130
+]
+
+ammoTypes: {
+  scrap: flakScrap
+}
+
+items: {
+  booster: false
+}
+
+reloadTime: 10
+range: 100
+size: 1
+shots: 1
+targetGround: false
+targetAir: true
+
+recoilAmount: 2
+rotateSpeed: 10
+inaccuracy: 5
+shootCone: 35
+health: 200
+shootSound: shootSnap
+
+category: turret
