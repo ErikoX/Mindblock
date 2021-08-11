@@ -14,8 +14,9 @@ items: {
   booster: false
 }
 
+maxAmmo: 10
 reloadTime: 10
-range: 100
+range: 90
 size: 1
 shots: 1
 targetGround: false
