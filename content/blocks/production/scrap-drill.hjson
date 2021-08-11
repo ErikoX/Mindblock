@@ -13,7 +13,7 @@ rotateSpeed: 1
 drawMineItem: true
 updateEffect: pulverizeMedium
 drillEffect: mineBig
-health: 200
+health: 100
 hasItems: true
 itemCapacity: 5
 
