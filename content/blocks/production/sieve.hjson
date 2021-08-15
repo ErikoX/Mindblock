@@ -1,0 +1,34 @@
+type: Separator
+
+name: Sieve
+description: Consumes gravel and outputs copper and lead.
+
+health: 100
+size: 2
+
+
+hasItems: true
+itemCapacity: 2
+
+requirements: [
+    scrap/80
+]
+
+consumes: {
+    items: {
+        items: [
+            gravel/1
+        ]
+        
+    }
+}
+
+results: [
+    lead/1
+    copper/1
+    coal/1
+]
+
+craftTime: 40
+
+category: crafting
