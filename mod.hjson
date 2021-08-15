@@ -2,7 +2,7 @@ name: "mindblock"
 displayName: "Mindblock"
 author: ErikoX / treumie
 description: "Spawning on a tiny island, you navigate your way towards automation..."
-version: "0.1"
+version: "0.2"
 minGameVersion: "126.2"
 dependencies: [ ]
 hidden: false
