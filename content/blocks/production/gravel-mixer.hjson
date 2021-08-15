@@ -3,7 +3,7 @@ type: GenericCrafter
 name: Gravel Mixer
 description: Turns sand and scrap into gravel. Important step for progression.
 
-health: 200
+health: 150
 size: 2
 
 hasItems: true
