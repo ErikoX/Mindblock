@@ -1,0 +1,29 @@
+type: GenericCrafter
+
+name: Gravel Mixer
+description: Turns sand and scrap into gravel. Important step for progression.
+
+health: 200
+size: 2
+
+hasItems: true
+itemCapacity: 15
+
+requirements: [
+    scrap/180
+]
+
+consumes: {
+    items: {
+        items: [
+            sand/3
+            scrap/1
+        ]
+        
+    }
+}
+
+outputItem: gravel/1
+craftTime: 50
+
+category: crafting
