@@ -17,7 +17,7 @@ consumes: {
     items: {
         items: [
             sand/3
-            scrap/1
+            scrap/2
         ]
         
     }
