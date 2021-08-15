@@ -1,0 +1,16 @@
+
+
+name: Artificial Sand
+description: Used to expand your island.
+
+
+requirements: [
+    copper/2
+    sand/15
+]
+
+breakable: true
+placeableLiquid: true
+update: true
+
+category: defense

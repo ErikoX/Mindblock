@@ -1,0 +1,16 @@
+
+
+name: Artificial Ground
+description: Used to expand your island.
+
+
+requirements: [
+    copper/2
+    scrap/15
+]
+
+breakable: true
+placeableLiquid: true
+update: true
+
+category: defense
